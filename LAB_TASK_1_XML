@@ -39,3 +39,19 @@
 
 	
 </students>
+3.<Persons>
+	<person "address=h#38,r#3,banani,dhaka">
+		<name>John Doe</name>
+		<department>sales</department>
+	</person>
+    <person "address=flat#a/1,h#20,r#18,mirpur,dhaka">
+		<name>Mark Zuckerberg</name>
+		<department>Accounts</department>
+	</person>
+   <person "address=h#38,r#3,motijheel">
+		<name>Ala Voski</name>
+		<department>human resource</department>
+	</person>
+
+	
+</Persons>
