@@ -1,4 +1,4 @@
-<companies>
+1.<companies>
 	<company id="11">
 		<name>Samsung</name>
 		<unitprice>35000</unitprice>
@@ -22,3 +22,20 @@
 
 	
 </companies>
+2.<students>
+	<student SL.NO="23">
+		<name>John Carter</name>
+		<admissiondate>25/12/2015</admissiondate>
+	</student>
+    <student SL.NO="29">
+		<name>Bob Marshal</name>
+		<admissiondate>13/01/1999</admissiondate>
+	</student>
+    <student SL.NO="35">
+		<name>Clark Kent</name>
+		<admissiondate>17/06/2005</admissiondate>
+	</student>
+   
+
+	
+</students>
