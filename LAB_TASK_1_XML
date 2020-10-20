@@ -40,18 +40,42 @@
 	
 </students>
 3.<Persons>
-	<person "address=h#38,r#3,banani,dhaka">
-		<name>John Doe</name>
-		<department>sales</department>
-	</person>
-    <person "address=flat#a/1,h#20,r#18,mirpur,dhaka">
-		<name>Mark Zuckerberg</name>
-		<department>Accounts</department>
-	</person>
-   <person "address=h#38,r#3,motijheel">
-		<name>Ala Voski</name>
-		<department>human resource</department>
-	</person>
+    <person>
+        <address>
+            <house>38</house>
+            <road>3</road>
+            <area>banani</area>
+            <division>dhaka</division>
+        </address>
+        <deparment>sales</deparment>
+        <salary>$20000</salary>
+    
+    </person>
+    <person>
+        <address>
+            <flat>A/1</flat>
+            <house>20</house>
+            <road>18</road>
+            <area>mirpur</area>
+            <division>dhaka</division>
+        </address>
+        <deparment>accounts</deparment>
+        <salary>$12000</salary>
+    
+    </person>
+    <person>
+        <address>
+            <house>38</house>
+            <road>3</road>
+            <area>Motijheel</area>
+            
+        </address>
+        <deparment>human resource</deparment>
+        <salary>$30000</salary>
+    
+    </person>
 
-	
+
+
+
 </Persons>
